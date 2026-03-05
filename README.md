@@ -3,7 +3,7 @@ It validates **product details, basket totals, checkout totals, and the order co
 
 ---
 
-## 👤 Author
+## 👤 Devloped By
 **Pranusha Naika**  
 Email: pranushanaika@gmail.com  
 
